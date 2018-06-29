@@ -1594,3 +1594,28 @@
   width:211px;
   white-space:nowrap;
 }
+#u51_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:421px;
+  height:87px;
+}
+#u51 {
+  border-width:0px;
+  position:absolute;
+  left:37px;
+  top:33px;
+  width:421px;
+  height:87px;
+}
+#u51_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
